@@ -1,0 +1,18 @@
+EESchema-LIBRARY Version 2.3
+#encoding utf-8
+#
+# TestPoint
+#
+DEF ~TestPoint TP 0 40 Y Y 1 F N
+F0 "TP" 0 185 50 H V C CNN
+F1 "TestPoint" 0 -50 50 H I C CNN
+F2 "TestPoints:TP_SMD_0.7mm" 0 100 60 H I C CNN
+F3 "" 0 100 60 H I C CNN
+DRAW
+C 0 125 25 0 1 0 f
+P 2 0 1 0 0 125 0 100 N
+X ~ ~ 0 0 100 U 50 50 1 1 I
+ENDDRAW
+ENDDEF
+#
+#End Library

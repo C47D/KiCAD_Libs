@@ -1,7 +1,12 @@
-*.bak
+# Temporal files
+Libs/*.bck
+Libs/*.dcm
+Libs/*.bak
+
+develop.bak
 *.kicad_pcb
 *.pro
-*.lib
+develop-cache.lib
 *.sch
 fp-lib-table
 
