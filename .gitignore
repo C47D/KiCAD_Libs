@@ -12,8 +12,3 @@ C47_Passives/*
 C47_Power/*
 CLV1A-FKB/*
 TP.pretty/*
-
-# ignore temporal files
-Libs/*.dcm
-Libs/*.bak
-Libs/*.bck
