@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TDC1000
+D Analog Front End
+K TDC
+$ENDCMP
+#
+$CMP TDC7200
+D Time-to-digital Converter
+K TDC
+$ENDCMP
+#
+#End Doc Library

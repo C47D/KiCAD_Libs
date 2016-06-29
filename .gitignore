@@ -1,0 +1,19 @@
+*.bak
+*.kicad_pcb
+*.pro
+*.lib
+*.sch
+fp-lib-table
+
+# Temp. directories
+C47_ICs/*
+C47_Misc/*
+C47_Passives/*
+C47_Power/*
+CLV1A-FKB/*
+TP.pretty/*
+
+# ignore temporal files
+Libs/*.dcm
+Libs/*.bak
+Libs/*.bck
