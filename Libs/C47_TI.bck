@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TDC1000
+D Analog Front End
+K TDC
+$ENDCMP
+#
+#End Doc Library
