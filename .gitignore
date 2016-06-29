@@ -1,7 +1,7 @@
 # Temporal files
-Libs/*.bck
-Libs/*.dcm
-Libs/*.bak
+*.bck
+*.dcm
+*.bak
 
 develop.bak
 *.kicad_pcb
